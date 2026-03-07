@@ -22,6 +22,6 @@ public class FindLargeNo {
                 min=arr[i];
             }
         }
-        System.out.println("Small no:"+min);
+        System.out.println("Small no:"+min+" Best of luck");
     }
 }
