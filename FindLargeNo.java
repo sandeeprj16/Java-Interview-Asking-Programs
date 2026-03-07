@@ -23,5 +23,6 @@ public class FindLargeNo {
             }
         }
         System.out.println("Small no:"+min+" Best of luck");
+        System.out.println("Best of Luck");
     }
 }
