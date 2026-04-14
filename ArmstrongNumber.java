@@ -1,10 +1,10 @@
-// A number that equals the sim of its own digits, each raised to power of the totsl number of digits.
+// A number that equals the sim of its own digits, each raised to power of the total number of digits.
 
 
 // WJP to count number of digits for given number
 public class ArmstrongNumber {
     public static void main(String[] args) {
-        System.out.println("armstrong no program");
+        System.out.println("armstrong no programs");
        
         int num=153;
         int temp=num;

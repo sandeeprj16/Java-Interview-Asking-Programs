@@ -13,6 +13,8 @@ public class PatternWithNo {
         for(int i=0;i<5 && count<=num;i++){
             System.out.print("* ");
             count++;
+
+            System.out.print("samdyeeee");
         } }
     }
 }
