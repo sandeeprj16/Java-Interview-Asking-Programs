@@ -14,7 +14,7 @@ public class FindLargeNo {
     // find small no
 
     public static void main(String[] args) {
-        int arr[]={9,3,5,1,14,13};
+        int arr[]={9,3,14,1,5,1,14,13};
         int min=arr[0];
 
         for(int i=1;i<arr.length;i++){
@@ -24,5 +24,6 @@ public class FindLargeNo {
         }
         System.out.println("Small no:"+min+" Best of luck");
         System.out.println("Best of Luck");
+
     }
 }
